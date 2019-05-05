@@ -1,0 +1,34 @@
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\bin\Debug\ProjekUAS.exe
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\bin\Debug\ProjekUAS.pdb
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form1.resources
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Properties.Resources.resources
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.csproj.GenerateResource.Cache
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.exe
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.pdb
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.MDIParent1.resources
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.csprojResolveAssemblyReference.cache
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form2.resources
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form3.resources
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form4.resources
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form5.resources
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form6.resources
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form7.resources
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form8.resources
+C:\Users\Dino Puguh\documents\visual studio 2010\Projects\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form9.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.exe
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.pdb
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\bin\Debug\ProjekUAS.exe
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\bin\Debug\ProjekUAS.pdb
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form1.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form2.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form3.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form4.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form5.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form6.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form7.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form8.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Form9.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.MDIParent1.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.Properties.Resources.resources
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.csprojResolveAssemblyReference.cache
+F:\MATKUL IT\semester 4\Pencit\ProjekUAS\ProjekUAS\obj\x86\Debug\ProjekUAS.csproj.GenerateResource.Cache
